@@ -1,0 +1,7 @@
+order_id, order_datetime, order_value, order_status, order_payment_method, order_ingestion_datetime
+1, 2022-09-18 12:47:52, 1000, Finished, Credit Card, 2022-09-18 13:10:12
+2, 2022-09-19 23:16:41, 1600, Finished, Credit Card, 2022-09-19 23:36:21
+3, 2022-09-21 21:15:02, 700, Finished, Credit Card, 2022-09-21 21:20:14
+4, 2022-09-22 16:45:40, 900, Finished, Credit Card, 2022-09-22 16:50:59
+5, 2022-09-24 19:32:06, 1650, Finished, Credit Card, 2022-09-24 19:53:22
+6, 2022-09-26 08:56:17, 200, Shipped, Credit Card, 2022-09-26 09:10:20
